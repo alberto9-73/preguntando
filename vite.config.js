@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 export default defineConfig({
-base:'/github.com/alberto9-73/preguntando/',  
+base:'/preguntando/',  
 build:{
     outDir:'docs',
 }
